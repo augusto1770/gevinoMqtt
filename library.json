@@ -1,0 +1,20 @@
+{
+    "name": "ESP wifi manager",
+    "keywords": "esp,wigi",
+    "description": "Wifi Manager AT command",
+    "authors":
+    {
+        "name": "Augusto Montoni",
+        "email": "montoni.augusto@gmail.com",
+        "url": "",
+        "maintainer": true
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/"
+    },
+    "version": "0.0.1",
+    "frameworks": "arduino",
+    "platforms": "atmelsam"
+}
